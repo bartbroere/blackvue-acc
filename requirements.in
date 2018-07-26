@@ -1,0 +1,4 @@
+click # as a dependency of blackclue
+docopt
+pandas
+pymp4 # as a dependency of blackclue
