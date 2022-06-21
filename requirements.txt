@@ -5,11 +5,20 @@
 #    pip-compile --output-file requirements.txt requirements.in
 #
 click==6.7
-construct==2.8.8          # via pymp4
+    # via -r requirements.in
+construct==2.8.8
+    # via pymp4
 docopt==0.6.2
-numpy==1.15.0             # via pandas
+    # via -r requirements.in
+numpy==1.22.0
+    # via pandas
 pandas==0.23.3
+    # via -r requirements.in
 pymp4==1.1.0
-python-dateutil==2.7.3    # via pandas
-pytz==2018.5              # via pandas
-six==1.11.0               # via python-dateutil
+    # via -r requirements.in
+python-dateutil==2.7.3
+    # via pandas
+pytz==2018.5
+    # via pandas
+six==1.11.0
+    # via python-dateutil
