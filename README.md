@@ -1,4 +1,3 @@
-![BCH compliance](https://bettercodehub.com/edge/badge/bartbroere/blackvue-acc?branch=master)
 ![Release](https://img.shields.io/pypi/v/blackvue-acc.svg)
 ![Pre-release](https://img.shields.io/github/release/bartbroere/blackvue-acc/all.svg)
 ![Licence](https://img.shields.io/pypi/l/blackvue-acc.svg)
